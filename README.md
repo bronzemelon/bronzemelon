@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a couple of javascript projects
-- 🌱 I’m currently learning javascript
+- 🔭 I’m currently working on a couple of C++ projects
+- 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate with myself
 - 🤔 I’m looking for help with mental health
 - 💬 Ask me about nothing
